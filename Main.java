@@ -23,3 +23,5 @@ System.out.println( "Enter second integer:" );
   sum, product, average );
 }
 } // end class Arithmetic
+
+Upload your work
